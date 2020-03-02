@@ -1,2 +1,4 @@
-use git to push project
-beautiful!
+算是结束了大概半年的python基础学习和爬虫学习
+现在开始正式朝深度学习方向起步
+希望能在为期一年内达到小有所成的水平
+加油
